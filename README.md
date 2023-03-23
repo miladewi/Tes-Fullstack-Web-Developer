@@ -1,4 +1,4 @@
-# omnichat
+# Webinput
 
 ## Project setup
 ```
