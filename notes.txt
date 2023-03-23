@@ -1,0 +1,2 @@
+1. Change base url api on main.js
+2. Change public path on vue.config.js
